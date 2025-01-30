@@ -1,4 +1,4 @@
-const EMAIL_ADDRESS = "ryugo.yoshida@cybereason.com";
+const EMAIL_ADDRESS = "blablabla@gmail.com";
 
 
 function fetchChromeUpdates(emailAddress) {
